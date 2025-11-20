@@ -59,12 +59,12 @@ Both models follow a similar pipeline:
 - Bidirectional LSTM  
 - Dense output layer (sigmoid)  
 
-Key hyperparameters:
-EMBEDDING_DIM = 128  
-HIDDEN_DIM = 64  
-DROPOUT = 0.5  
-LEARNING_RATE = 0.001  
-EPOCHS = 50  
+### Key hyperparameters:
+- EMBEDDING_DIM = 128  
+- HIDDEN_DIM = 64  
+- DROPOUT = 0.5  
+- LEARNING_RATE = 0.001  
+- EPOCHS = 50  
 
 ---
 
